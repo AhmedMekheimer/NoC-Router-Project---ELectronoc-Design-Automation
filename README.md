@@ -1,4 +1,4 @@
-# NoC-Router-Project---ELectronoc-Design-Automation
+# NoC-Router-Project--Using VHDL--ELectronoc-Design-Automation
 
 NoC Modules :
 
